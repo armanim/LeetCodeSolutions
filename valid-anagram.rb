@@ -1,4 +1,4 @@
-# Solotin for Valid Anagram
+# Solutin for Valid Anagram
 # URL: https://leetcode.com/problems/valid-anagram/
 
 # @param {String} s
